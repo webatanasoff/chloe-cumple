@@ -107,7 +107,7 @@ fieldset[disabled] .btn-primary.active {
   text-transform: uppercase;
   font-weight: 700;
   border-radius: 3px;
-  font-size: 18px;
+  font-size: 1em;
   padding: 20px 40px;
 }
 .btn-xl:hover,
@@ -253,7 +253,7 @@ header .intro-text .intro-heading {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
-  font-size: 50px;
+  font-size: 2em;
   line-height: 50px;
   margin-bottom: 25px;
 }
@@ -751,10 +751,7 @@ body {
     .map {
         height: 100%;
         }
-    header{
-    margin-top: 50px;
-  }
-}
+    }
 
 .map iframe {
     pointer-events: none;
